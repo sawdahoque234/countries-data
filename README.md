@@ -5,4 +5,4 @@
 * Here user can search any country data by name
 
 ## Screenshot
-(https://github.com/sawdahoque234/countries-data/tree/main/src/img)
+(https://github.com/sawdahoque234/countries-data/blob/main/src/img/i.png)
